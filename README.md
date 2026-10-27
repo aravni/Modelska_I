@@ -3,7 +3,14 @@
 **Študijsko leto:** 2023/24  
 **Avtor:** Aljaž Ravnikar, dipl. inž. str. (UN)
 
-Repozitorij vsebuje Python kodo, Mathematica zvezke in poročila v LaTeXu, pripravljena v okviru predmeta **Modelska analiza I** na Fakulteti za matematiko in fiziko (FMF) Univerze v Ljubljani.
+Repozitorij vsebuje Python kodo, Jupyter Notebooke, Mathematica zvezke in poročila v LaTeXu ter PDF, pripravljene v okviru predmeta **Modelska analiza I** na Fakulteti za matematiko in fiziko (FMF) Univerze v Ljubljani.
+
+## Vsebina
+
+- **Python skripte in Jupyter Notebooki** – numerične metode, simulacije in analiza rezultatov posameznih nalog.
+- **Mathematica zvezki** – simbolni izračuni in matematične izpeljave.
+- **Poročila** – poročila v formatih LaTeX in PDF.
+- **Dodatne datoteke** – podatki za reševanje nalog.
 
 ## Vsebina
 
